@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x8E1d135A5dA24eadd66D55861fCC91019756B9F4",
-  "SCAN_LINK": "https://testnet.snowtrace.io/token/0x8e1d135a5da24eadd66d55861fcc91019756b9f4",
+  "CONTRACT_ADDRESS": "0xc8dFCeD037fE37322d903940124D25D48ED041Cb",
+  "SCAN_LINK": "https://testnet.snowtrace.io/token/0xc8dFCeD037fE37322d903940124D25D48ED041Cb",
   "NETWORK": {
     "NAME": "Avalanche Fuji C-Chain",
     "SYMBOL": "AVAX",
     "ID": 1
   },
-  "NFT_NAME": "Chainling Alpha Elite",
-  "SYMBOL": "CAE",
-  "MAX_SUPPLY": 500,
+  "NFT_NAME": "Chainling Elites",
+  "SYMBOL": "CELITE",
+  "MAX_SUPPLY": 88,
   "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.002,
   "GAS_LIMIT": 285000,
